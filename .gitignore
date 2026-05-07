@@ -2,3 +2,8 @@
 .databricks
 .vscode
 __builtins__.pyi
+editor.ipynb
+resources
+CLAUDE.md
+.DS_Store
+__pycache__/
