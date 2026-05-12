@@ -8,3 +8,6 @@ CLAUDE.md
 .DS_Store
 __pycache__/
 .env
+
+databricks-best-practices.md
+upgrades.md
